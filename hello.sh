@@ -1,5 +1,5 @@
 #!/bin/bash 
 
-Hello from git
-Second line is added 
-Third line is added 
+echo "Hello from git"
+echo "Second line is added" 
+echo "Third line is added" 
